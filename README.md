@@ -2,7 +2,7 @@
 
 A small full-stack document editor inspired by Google Docs. Users can create, rename, edit and reopen rich-text documents, import `.txt` / `.md` / `.docx` files as new documents, and share documents with other users as **editors** or **viewers**.
 
-- **Live app:** `<YOUR_VERCEL_URL>`
+- **Live app:** `https://ajaia-docs-sigma-three.vercel.app/`
 - **Walkthrough video:** see `VIDEO_URL.txt`
 - **Architecture note:** [`ARCHITECTURE.md`](./ARCHITECTURE.md)
 - **AI workflow note:** [`AI_WORKFLOW.md`](./AI_WORKFLOW.md)
