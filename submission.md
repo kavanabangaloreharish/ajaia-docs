@@ -7,7 +7,7 @@
 
 | Item | Link |
 |---|---|
-| Live app | `<YOUR_VERCEL_URL>` |
+| Live app | `https://ajaia-docs-sigma-three.vercel.app/` |
 | Walkthrough video | see `VIDEO_URL.txt` |
 | Source code (GitHub) | `<YOUR_GITHUB_REPO_URL>` (optional, also in this folder) |
 
