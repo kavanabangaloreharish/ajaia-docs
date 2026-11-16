@@ -9,7 +9,7 @@
 |---|---|
 | Live app | `https://ajaia-docs-sigma-three.vercel.app/` |
 | Walkthrough video | see `VIDEO_URL.txt` |
-| Source code (GitHub) | `<YOUR_GITHUB_REPO_URL>` (optional, also in this folder) |
+| Source code (GitHub) | 'https://github.com/kavanabangaloreharish/ajaia-docs' |
 
 ## Test accounts
 
